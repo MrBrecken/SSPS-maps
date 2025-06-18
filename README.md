@@ -1,2 +1,2 @@
-# SSPS-maps
-hosted maps for sound space private server
+# LINORIA MAPS
+hosted maps for Linoria (GAME)
